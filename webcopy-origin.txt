@@ -1,0 +1,76 @@
+Uri: http://pinterest.invite.tilda.ws/sergeyekaterina
+File Name: C:\Downloaded Web Sites\pinterest.invite.tilda.ws\sergeyekaterina.html
+Content Type: text/html
+
+Uri: http://pinterest.invite.tilda.ws/tilda-blocks-page46518769.min.css?t=1712331412
+File Name: C:\Downloaded Web Sites\pinterest.invite.tilda.ws\tilda-blocks-page46518769.min.css
+Content Type: text/css
+
+Uri: http://pinterest.invite.tilda.ws/tilda-blocks-page46518769.min.js?t=1712331412
+File Name: C:\Downloaded Web Sites\pinterest.invite.tilda.ws\tilda-blocks-page46518769.min.js
+Content Type: application/javascript
+
+Uri: https://neo.tildacdn.com/js/tilda-fallback-1.0.min.js
+File Name: C:\Downloaded Web Sites\pinterest.invite.tilda.ws\js\tilda-fallback-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/css/tilda-animation-2.0.min.css
+File Name: C:\Downloaded Web Sites\pinterest.invite.tilda.ws\css\tilda-animation-2.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-forms-1.0.min.css
+File Name: C:\Downloaded Web Sites\pinterest.invite.tilda.ws\css\tilda-forms-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-grid-3.0.min.css
+File Name: C:\Downloaded Web Sites\pinterest.invite.tilda.ws\css\tilda-grid-3.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/img/tildacopy.png
+File Name: C:\Downloaded Web Sites\pinterest.invite.tilda.ws\img\tildacopy.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/img/tildafavicon.ico
+File Name: C:\Downloaded Web Sites\pinterest.invite.tilda.ws\img\tildafavicon.ico
+Content Type: image/x-icon
+
+Uri: https://static.tildacdn.com/js/tilda-animation-2.0.min.js
+File Name: C:\Downloaded Web Sites\pinterest.invite.tilda.ws\js\tilda-animation-2.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-animation-sbs-1.0.min.js
+File Name: C:\Downloaded Web Sites\pinterest.invite.tilda.ws\js\tilda-animation-sbs-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-events-1.0.min.js
+File Name: C:\Downloaded Web Sites\pinterest.invite.tilda.ws\js\tilda-events-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-forms-1.0.min.js
+File Name: C:\Downloaded Web Sites\pinterest.invite.tilda.ws\js\tilda-forms-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-lazyload-1.0.min.js
+File Name: C:\Downloaded Web Sites\pinterest.invite.tilda.ws\js\tilda-lazyload-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-polyfill-1.0.min.js
+File Name: C:\Downloaded Web Sites\pinterest.invite.tilda.ws\js\tilda-polyfill-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-scripts-3.0.min.js
+File Name: C:\Downloaded Web Sites\pinterest.invite.tilda.ws\js\tilda-scripts-3.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-1.1.min.js
+File Name: C:\Downloaded Web Sites\pinterest.invite.tilda.ws\js\tilda-zero-1.1.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-forms-1.0.min.js
+File Name: C:\Downloaded Web Sites\pinterest.invite.tilda.ws\js\tilda-zero-forms-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-scale-1.0.min.js
+File Name: C:\Downloaded Web Sites\pinterest.invite.tilda.ws\js\tilda-zero-scale-1.0.min.js
+Content Type: application/javascript
+
